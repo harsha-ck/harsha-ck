@@ -109,9 +109,10 @@ Computer Science Engineering Student | Python Developer | AI & Machine Learning 
 ---
 
 # 🔥 GitHub Streak
+<p align="center">
 
 https://streak-stats.demolab.com?user=harsha-c-k-coder&theme=tokyonight
-
+</p>
 ---
 
 # 📈 Activity Graph

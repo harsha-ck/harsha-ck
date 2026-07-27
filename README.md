@@ -100,9 +100,9 @@ Computer Science Engineering Student | Python Developer | AI & Machine Learning 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-c-k-coder&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-ck&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-c-k-coder&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-ck&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -111,7 +111,7 @@ Computer Science Engineering Student | Python Developer | AI & Machine Learning 
 # 🔥 GitHub Streak
 <p align="center">
 
-https://streak-stats.demolab.com?user=harsha-c-k-coder&theme=tokyonight
+https://streak-stats.demolab.com?user=harsha-ck&theme=tokyonight
 </p>
 ---
 
@@ -119,7 +119,7 @@ https://streak-stats.demolab.com?user=harsha-c-k-coder&theme=tokyonight
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-c-k-coder&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-ck&theme=tokyo-night"/>
 
 </p>
 
@@ -147,7 +147,7 @@ https://streak-stats.demolab.com?user=harsha-c-k-coder&theme=tokyonight
 
 📧 Email: harshack.21kumar@gmail.com
 
-💻 GitHub: https://github.com/harsha-c-k-coder
+💻 GitHub: https://github.com/harsha-ck
 
 ---
 

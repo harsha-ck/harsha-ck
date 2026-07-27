@@ -98,20 +98,13 @@ Computer Science Engineering Student | Python Developer | AI & Machine Learning 
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha-ck&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-ck&layout=compact&theme=tokyonight"/>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=harsha-ck&show_icons=true&theme=tokyonight"/>
 
 ---
 
 # 🔥 GitHub Streak
 <p align="center">
-
-https://streak-stats.demolab.com?user=harsha-ck&theme=tokyonight
+  <img src="https://streak-stats.demolab.com?user=harsha-ck&theme=tokyonight&v=2"/>
 </p>
 ---
 
